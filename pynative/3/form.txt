@@ -1,0 +1,12 @@
+Student 1: 
+
+['What is your name?: ', 'What is your surname?: ', 'What is you grade from the exam?: '] 78-------------------------- 
+Student 2: 
+
+['What is your name?: ', 'What is your surname?: ', 'What is you grade from the exam?: '] 85-------------------------- 
+Student 3: 
+
+['What is your name?: ', 'What is your surname?: ', 'What is you grade from the exam?: '] 76-------------------------- 
+Student 4: 
+
+['What is your name?: ', 'What is your surname?: ', 'What is you grade from the exam?: '] 69-------------------------- 
